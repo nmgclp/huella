@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Huella Cultural</title>
+<meta name="description" content="Mapa colectivo de los espacios culturales de La Plata: qué hay hoy, qué hubo antes y cómo se mueve la ciudad.">
+<meta property="og:title" content="Huella Cultural">
+<meta property="og:description" content="Mapa colectivo de los espacios culturales de La Plata.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#f3f2ee">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%231f4fd8'/%3E%3Ccircle cx='16' cy='16' r='6' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Inter:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="vendor/maplibre-gl.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="top">
+  <h1 id="site-name">Huella Cultural</h1>
+  <p id="site-sub">Espacios culturales de La Plata, hoy y en el tiempo.</p>
+</header>
+
+<main class="app">
+  <aside class="panel" id="panel" aria-label="Filtros y lista de espacios">
+    <label class="f" for="q">Buscar
+      <input id="q" type="search" placeholder="Nombre, barrio o tipo" autocomplete="off">
+    </label>
+    <label class="f" for="deleg">Delegación
+      <select id="deleg"></select>
+    </label>
+    <div>
+      <div class="f">Categoría</div>
+      <div class="cats" id="cats"></div>
+    </div>
+    <label class="chk" for="choro"><input id="choro" type="checkbox" checked><span>Colorear barrios según cantidad de espacios</span></label>
+    <div class="stat" id="stat" aria-live="polite"></div>
+    <div class="soon">
+      <strong>Línea de tiempo</strong>
+      <span>Pronto vas a poder ver qué había en cada año.</span>
+    </div>
+    <div>
+      <div class="f">Espacios</div>
+      <ul class="lista" id="lista"></ul>
+    </div>
+    <p class="src">Mapa base © OpenStreetMap y colaboradores. Límites de barrios y delegaciones: Municipalidad de La Plata. Nombres de barrio según el mapeo propio.</p>
+  </aside>
+
+  <section class="mapa" aria-label="Mapa">
+    <div id="map"></div>
+    <div class="botonera">
+      <button id="btn-todo" type="button">Ver todo</button>
+      <button id="btn-casco" type="button">Casco</button>
+    </div>
+    <div class="tip" id="tip" hidden></div>
+    <article class="ficha" id="ficha" hidden aria-live="polite"></article>
+    <noscript><p class="noscript">Este mapa necesita JavaScript para mostrarse.</p></noscript>
+  </section>
+</main>
+
+<script src="vendor/maplibre-gl.js"></script>
+<script src="js/config.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

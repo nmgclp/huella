@@ -1,0 +1,736 @@
+﻿id,nombre_propio,nombre_municipal,delegacion
+LP-B01,La Loma,La Loma,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B02,Pza. 19 de Noviembre,19 de Noviembre,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B03,Htal. Italiano,Hospital Italiano,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B04,Brandsen,Brandsen,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B05,Parque Castelli,Castelli,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B06,Htal. San Juan de Dios,Hospital San Juan de Dios,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B07,Parque San Martín,Parque San Martín,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B08,Pza. Güemes,Güemes,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B09,Pza. Azcuénaga,Azcuénaga,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B10,Pza. Islas Malvinas,Islas Malvinas,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B11,Pza. Yrigoyen,Yrigoyen,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B12,Seminario,Seminario,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B13,Pza. Sarmiento,Sarmiento,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B14,Meridiano V,Meridiano V,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B15,Pza. Belgrano,Belgrano,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B16,Pza. Paso,Paso,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B18,Pza. Moreno,Plaza Moreno,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B17,Tacuarí,Tacuarí,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B19,Parque Saavedra,Parque Saavedra,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B20,Norte,Norte,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B21,Pza. Olazábal,Olazabal,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B22,Pza. Italia,Italia,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B23,Pza. San Martín,San Martín (Centro),LA PLATA CASCO URBANO FUNDACIONAL
+LP-B24,Pza. Rocha,Rocha,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B25,Pza. España,España,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B26,Unión Vecinal,Unión Vecinal,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B27,Pza. Alsina,Alsina,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B28,Estación La Plata,Estación La Plata,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B29,Facultades,Facultades,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B30,Fiscalía,Fiscalía,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B31,Pza. Matheu,Matheu,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B32,Policlínico,Policlínico,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B33,Hipódromo,Hipódromo,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B34,Paseo del Bosque,Paseo del Bosque,LA PLATA CASCO URBANO FUNDACIONAL
+LP-B35,Mondongo,El Mondongo,LA PLATA CASCO URBANO FUNDACIONAL
+RN-B01,El Mercadito,El Mercadito,RINGUELET
+RN-B02,Barrio Nuevo,Barrio Nuevo,RINGUELET
+RN-B03,Casco Ringuelet,Casco,RINGUELET
+RN-B04,Baobab,Baobab,RINGUELET
+RN-B05,Caminito,Caminito,RINGUELET
+MA-B03,,El Retiro,MALVINAS ARGENTINAS
+MA-B04,,El Arroyito,MALVINAS ARGENTINAS
+MA-B05,,Talleres,MALVINAS ARGENTINAS
+MA-B06,,Gambier,MALVINAS ARGENTINAS
+MA-B07,,Altos El Jaguel,MALVINAS ARGENTINAS
+MA-B08,,El Jaguel,MALVINAS ARGENTINAS
+MA-B09,,Centenario,MALVINAS ARGENTINAS
+SC-B08,,Lomas San Ramon,SAN CARLOS
+SC-B09,,Las Quintas Sur,SAN CARLOS
+SC-B10,,Solidaridad,SAN CARLOS
+SC-B11,,Malvinas,SAN CARLOS
+SC-B12,,Las Quintas Norte,SAN CARLOS
+SC-B13,,La Cumbre,SAN CARLOS
+SC-B14,,Ramos Mejia,SAN CARLOS
+SC-B15,,La Granja,SAN CARLOS
+SC-B16,,El Triunfo,SAN CARLOS
+SC-B17,,San Jose,SAN CARLOS
+SC-B18,,Altos de La Granja,SAN CARLOS
+TL-B01,Bajada de la Autopista,Bajada de la Autopista,TOLOSA
+TL-B02,La Unión,La Union,TOLOSA
+TL-B03,El Churrasco,El Churrasco,TOLOSA
+TL-B04,El Carmen,El Carmen,TOLOSA
+TL-B05,Casco Tolosa,Casco,TOLOSA
+TL-B06,La villita,La Villita,TOLOSA
+TL-B07,La Fabela,La Fabela,TOLOSA
+TL-B08,Justicia Social,Justicia Social,TOLOSA
+TL-B09,Jubilados,Jubilados,TOLOSA
+TL-B10,La Quilmes,La Quilmes,TOLOSA
+TL-B11,Claudina,Claudina,TOLOSA
+TL-B12,Los Tilos,Los Tilos,TOLOSA
+TL-B13,Colonia Boliviana,Colonia Boliviana,TOLOSA
+TL-B14,San Luis I,San Luis I,TOLOSA
+TL-B15,Pedro Benoit,Pedro Benoit,TOLOSA
+TL-B16,El Distribuidor,El Distribuidor,TOLOSA
+TL-B17,Estadio Único DAM,Estadio ünico D. A. Maradona,TOLOSA
+AS-B01,,La Emilia,ARTURO SEGUÍ
+AS-B02,,Aldea San Efren,ARTURO SEGUÍ
+AS-B03,,Parque,ARTURO SEGUÍ
+AS-B04,,Farmaceuticos,ARTURO SEGUÍ
+AS-B05,,Rancho Grande,ARTURO SEGUÍ
+AS-B06,,Lastra,ARTURO SEGUÍ
+AS-B07,,Macargo,ARTURO SEGUÍ
+AS-B08,,Casco Arturo Segui,ARTURO SEGUÍ
+AS-B09,,El Rancho,ARTURO SEGUÍ
+AS-B10,,Las Cortaderas,ARTURO SEGUÍ
+AS-B11,,Predio NHM,ARTURO SEGUÍ
+AS-B12,,Los Nidales,ARTURO SEGUÍ
+AS-B13,,A. Seguí II // El Bajo,ARTURO SEGUÍ
+AS-B14,,Arroyo San Juan,ARTURO SEGUÍ
+AS-B15,,Quintas,ARTURO SEGUÍ
+AS-B16,,Arboleda 420,ARTURO SEGUÍ
+AS-B17,,Comunidad Semilla,ARTURO SEGUÍ
+AS-B18,,Arroyo San Juan II,ARTURO SEGUÍ
+AS-B19,,La Espina,ARTURO SEGUÍ
+AS-B20,,Quintas II,ARTURO SEGUÍ
+AS-B21,,Los Campitos,ARTURO SEGUÍ
+AS-B22,,Quintas III,ARTURO SEGUÍ
+AS-B23,,Quintas IV,ARTURO SEGUÍ
+AS-B24,,Arroyo San Juan III,ARTURO SEGUÍ
+AS-B25,,Arroyo San Juan IV,ARTURO SEGUÍ
+AS-B26,,El Rincón II,ARTURO SEGUÍ
+CB-B01,,Faraon,CITY BELL
+CB-B02,,Pastelero,CITY BELL
+CB-B03,,Barrio Parque Ecologico,CITY BELL
+CB-B04,,Santa Ana,CITY BELL
+CB-B05,,City Bell centro,CITY BELL
+CB-B06,,Banco Provincia,CITY BELL
+CB-B07,,El Molino,CITY BELL
+CB-B08,,Martin Fierro,CITY BELL
+CB-B09,,Bagó,CITY BELL
+CB-B10,,Quintas de Alvear,CITY BELL
+CB-B11,,Jacarandá,CITY BELL
+CB-B12,,Nirvana,CITY BELL
+CB-B13,,La Emilia,CITY BELL
+CB-B14,,Los Ceibos,CITY BELL
+CB-B15,,El Molino II,CITY BELL
+CB-B16,,Country de Estudiantes,CITY BELL
+CB-B17,,El Fondo de Guemes,CITY BELL
+CB-B18,,El Andalus,CITY BELL
+CB-B19,,Colegio Estrada,CITY BELL
+CB-B20,,Las Carolinas,CITY BELL
+CB-B21,,La Chiquita I,CITY BELL
+CB-B22,,La Chiquita II,CITY BELL
+CB-B23,,Quinta privada,CITY BELL
+ER-B01,,El Rincón,EL RINCÓN
+ER-B02,,Procrear El Rincón I,EL RINCÓN
+ER-B03,,Procrear El Rincón II,EL RINCÓN
+ER-B04,,La Clementina 2A,EL RINCÓN
+ER-B05,,La Clementina 1,EL RINCÓN
+ER-B06,,La Francisca,EL RINCÓN
+GR-B01,,Colina del Sol,GORINA
+GR-B02,,La Fabrica,GORINA
+GR-B03,,La Boyera,GORINA
+GR-B04,,Medallita Milagrosa,GORINA
+GR-B05,,San Facundo,GORINA
+GR-B06,,Grand Bell 2,GORINA
+GR-B07,,Gorina,GORINA
+GR-B08,,La Cantera,GORINA
+GR-B09,,Altos de Gorina,GORINA
+GR-B10,,Gorina 1,GORINA
+GR-B11,,Las Huertas,GORINA
+GR-B12,,Las Huertas II,GORINA
+GR-B13,,Gorina 2,GORINA
+GR-B14,,San Joaquín,GORINA
+GR-B15,,Estancia Grande de Bell,GORINA
+GR-B16,,Gorina 3,GORINA
+GR-B17,,Unidad Penitenciaria,GORINA
+GR-B18,,La Cantera II,GORINA
+JH-B01,Don Carlos,Don Carlos,JOSÉ HERNÁNDEZ
+JH-B02,La Mantequera,La Mantequera,JOSÉ HERNÁNDEZ
+JH-B03,Zelmira,Zelmira,JOSÉ HERNÁNDEZ
+JH-B04,Mercosur,Mercosur,JOSÉ HERNÁNDEZ
+JH-B05,Josefa,Josefa,JOSÉ HERNÁNDEZ
+JH-B06,El Sueño,El Sueño,JOSÉ HERNÁNDEZ
+JH-B07,Albores,Albores,JOSÉ HERNÁNDEZ
+JH-B08,Salita,Salita,JOSÉ HERNÁNDEZ
+JH-B09,Crisol,Crisol,JOSÉ HERNÁNDEZ
+JH-B10,Don Luis,Don Luis,JOSÉ HERNÁNDEZ
+JH-B11,Santa Ana,Santa Ana,JOSÉ HERNÁNDEZ
+JH-B12,Est. FFCC Hernandez,Est. FFCC de José Hernández,JOSÉ HERNÁNDEZ
+JH-B13,Rugby Club Albatros,Rugby Club Albatros,JOSÉ HERNÁNDEZ
+JH-B14,Barrio Nuevo,Barrio Nuevo,JOSÉ HERNÁNDEZ
+JH-B15,El Triangulo,El Triángulo,JOSÉ HERNÁNDEZ
+JH-B16,GEO-2 Hernandez,GEO-2 de Hernández,JOSÉ HERNÁNDEZ
+JH-B17,Campo de Hernandez 1,Campo de Hernández 1,JOSÉ HERNÁNDEZ
+JH-B18,Piedranueva,Piedranueva,JOSÉ HERNÁNDEZ
+JH-B19,Salón de fiestas,Salón de fiestas,JOSÉ HERNÁNDEZ
+JH-B20,Altos de San José,Altos de San José,JOSÉ HERNÁNDEZ
+JH-B21,Centro Comercial,Centro comercial,JOSÉ HERNÁNDEZ
+JH-B22,Solares II,Solares II,JOSÉ HERNÁNDEZ
+JH-B23,Condominio Hernandez,Condominio Hernández,JOSÉ HERNÁNDEZ
+JH-B24,Colegio Raíces,Colegio Raíces,JOSÉ HERNÁNDEZ
+JH-B25,Espacio Cultural la 505,Espacio cultural La 505,JOSÉ HERNÁNDEZ
+JH-B26,Villa Las Marías,Villa Las Marías,JOSÉ HERNÁNDEZ
+JH-B27,La Casa del Techado,La casa del Techado,JOSÉ HERNÁNDEZ
+JH-B28,Colegio del Sol,Colegio del Sol,JOSÉ HERNÁNDEZ
+CB-B28,,Grand Bell 1,CITY BELL
+CB-B29,,Lomas de City Bell,CITY BELL
+CB-B30,,Los Campitos,CITY BELL
+CB-B31,,Los Porteños,CITY BELL
+CB-B32,,Las Banderitas,CITY BELL
+GN-B02,,Gonnet (Oeste),MANUEL B. GONNET
+GN-B01,,Gonnet (Este),MANUEL B. GONNET
+MR-B01,,Malvinas,MELCHOR ROMERO
+MR-B02,,Los Pinos,MELCHOR ROMERO
+MR-B03,,Don Fabian,MELCHOR ROMERO
+MR-B04,,El Futuro,MELCHOR ROMERO
+MR-B05,,Casco Melchor Romero,MELCHOR ROMERO
+MR-B06,,Las dos Manzanas,MELCHOR ROMERO
+MR-B07,,Santa Ana,MELCHOR ROMERO
+MR-B08,,La Granjita,MELCHOR ROMERO
+MR-B09,,La Granjita 3,MELCHOR ROMERO
+MR-B10,,Las Rosas,MELCHOR ROMERO
+MR-B11,,Frigorífico Gorina,MELCHOR ROMERO
+MR-B12,,El Molino 2,MELCHOR ROMERO
+MR-B13,,Tres de Abril,MELCHOR ROMERO
+MR-B14,,Santa Rosa,MELCHOR ROMERO
+MR-B15,,Barrio Parque,MELCHOR ROMERO
+MR-B16,,Los Coquitos,MELCHOR ROMERO
+MR-B17,,Tierra Mia,MELCHOR ROMERO
+MR-B18,,La Emilia,MELCHOR ROMERO
+MR-B19,,Cristo Rey,MELCHOR ROMERO
+MR-B20,,Colonia Urquiza,MELCHOR ROMERO
+MR-B21,,Barrio Nuevo,MELCHOR ROMERO
+MR-B22,,Benevento Futbol 5,MELCHOR ROMERO
+MR-B23,,El Bajo II,MELCHOR ROMERO
+MR-B24,,Jazmín,MELCHOR ROMERO
+MR-B25,,Alem,MELCHOR ROMERO
+MR-B26,,La Campiña,MELCHOR ROMERO
+MR-B27,,La Cañada,MELCHOR ROMERO
+MR-B28,,San Carlos,MELCHOR ROMERO
+MR-B29,,Sector Industrial de Melchor Romero,MELCHOR ROMERO
+MR-B30,,Quinta Lo de Juana,MELCHOR ROMERO
+MR-B31,,Quintas de Melchor Romero,MELCHOR ROMERO
+MR-B32,,La Campiña II,MELCHOR ROMERO
+MR-B33,,La Campiña III,MELCHOR ROMERO
+MR-B34,,Instituto Almafuerte-Alcaldía La Plata,MELCHOR ROMERO
+MR-B35,,Unidad carcelaria 10 y 46,MELCHOR ROMERO
+MR-B36,,Hospital Dr. A. Korn,MELCHOR ROMERO
+CB-B24,Savoia,Savoia,CITY BELL
+CB-B25,El Quimilar,Quimilar,CITY BELL
+CB-B26,Barrio Golf,Barrio Golf,CITY BELL
+CB-B27,El Quimilar II,Quimilar II,CITY BELL
+VC-B01,Villa Castells,Villa Castells,VILLA CASTELLS
+VC-B02,Procrear Villa Castells,Procrear Villa Castells,VILLA CASTELLS
+VC-B03,El Bajo,El Bajo,VILLA CASTELLS
+VC-B04,Club ABEMS,Club ABEMS,VILLA CASTELLS
+VE-B01,Zona Centro 4,Zona Centro 4,VILLA ELISA
+VE-B02,Zona Centro 3,Zona Centro 3,VILLA ELISA
+VE-B03,Zona Centro 2,Zona Centro 2,VILLA ELISA
+VE-B04,Zona Centro 1,Zona Centro 1,VILLA ELISA
+VE-B05,Zona Belgrano,Zona Belgrano,VILLA ELISA
+VE-B06,YPF,YPF,VILLA ELISA
+VE-B07,Villa Rica,Villa Rica,VILLA ELISA
+VE-B08,UTEDYC,Utedyc,VILLA ELISA
+VE-B09,Solar de Iraola,Solar de Iraola,VILLA ELISA
+VE-B10,Santa Rosa,Santa Rosa,VILLA ELISA
+VE-B11,San Jorge,San Jorge,VILLA ELISA
+VE-B12,Quintas,Quintas,VILLA ELISA
+VE-B13,Prado Español,Prado Español,VILLA ELISA
+VE-B14,Monte Servente,Monte Servente,VILLA ELISA
+VE-B15,Militar,Militar,VILLA ELISA
+VE-B16,Merryland,Merryland,VILLA ELISA
+VE-B17,Los Zorzales,Los Zorzales,VILLA ELISA
+VE-B18,Las Torres,Las Torres,VILLA ELISA
+VE-B19,Las Retamas,Las Retamas,VILLA ELISA
+VE-B20,Las Mellizas,Las Mellizas,VILLA ELISA
+VE-B21,Las Margaritas,Las Margaritas,VILLA ELISA
+VE-B22,Las Dos Teresas,Las Dos Teresas,VILLA ELISA
+VE-B23,La Garza,La Garza,VILLA ELISA
+VE-B24,La Fortaleza,La Fortaleza,VILLA ELISA
+VE-B25,La Cerámica,La Cerámica,VILLA ELISA
+VE-B26,Polígono 14,La Cabaña,VILLA ELISA
+VE-B27,Jardín de Villa Elisa,Jardin de Villa Elisa,VILLA ELISA
+VE-B28,Entre vías,Entre Vias,VILLA ELISA
+VE-B29,El Triangulo,EI Triangulo,VILLA ELISA
+VE-B30,El Progreso,EI Progreso,VILLA ELISA
+VE-B31,Dumor,Dumor,VILLA ELISA
+VE-B32,Casa de Portugal,Casa de Portugal,VILLA ELISA
+VE-B33,Arana y Belgrano,Arana y Belgrano,VILLA ELISA
+VE-B34,El Faraón,El Faraón,VILLA ELISA
+VE-B35,Mr. Pippo,Mr. Pippo,VILLA ELISA
+AL-B01,,Puente de Fierro,ALTOS DE SAN LORENZO
+AL-B02,,Evita,ALTOS DE SAN LORENZO
+AL-B03,,Bibiloni,ALTOS DE SAN LORENZO
+AL-B04,,El Ombú,ALTOS DE SAN LORENZO
+AL-B05,,Los Robles,ALTOS DE SAN LORENZO
+AL-B06,,Barrio del Sol,ALTOS DE SAN LORENZO
+AL-B07,,La Esperanza,ALTOS DE SAN LORENZO
+AL-B08,,Casco Altos de San Lorenzo,ALTOS DE SAN LORENZO
+AL-B09,,Altos de Arana,ALTOS DE SAN LORENZO
+AL-B10,,Barrio Chico,ALTOS DE SAN LORENZO
+AL-B11,,El Ombú,ALTOS DE SAN LORENZO
+AL-B12,,Cementerio,ALTOS DE SAN LORENZO
+AL-B13,,Villa Lenci,ALTOS DE SAN LORENZO
+AL-B14,,La 90,ALTOS DE SAN LORENZO
+AL-B15,,Hotel Bordó,ALTOS DE SAN LORENZO
+AL-B16,,Elizalde,ALTOS DE SAN LORENZO
+AL-B17,,Villa César Ricardo,ALTOS DE SAN LORENZO
+AL-B18,,Chacarita,ALTOS DE SAN LORENZO
+AL-B19,,CEGALP,ALTOS DE SAN LORENZO
+AL-B20,,Villa Elvira 2 / Veintiseis de julio,ALTOS DE SAN LORENZO
+AL-B21,,Villa Elvira 3,ALTOS DE SAN LORENZO
+AL-B22,,La Quinta,ALTOS DE SAN LORENZO
+AL-B23,,Los Teritos,ALTOS DE SAN LORENZO
+AL-B24,,Club For Ever,ALTOS DE SAN LORENZO
+AL-B25,,Fincas Altos del Plata,ALTOS DE SAN LORENZO
+AL-B26,,Altos del Plata II,ALTOS DE SAN LORENZO
+AL-B27,,Siempre verde,ALTOS DE SAN LORENZO
+AL-B28,,Altos del Plata III,ALTOS DE SAN LORENZO
+AL-B29,,Los Teritos II,ALTOS DE SAN LORENZO
+AL-B30,,Los Teritos III,ALTOS DE SAN LORENZO
+AL-B31,,Terranova,ALTOS DE SAN LORENZO
+AL-B32,,Lomas de Arana,ALTOS DE SAN LORENZO
+AL-B33,,Cervecería Arana,ALTOS DE SAN LORENZO
+AL-B34,,La Curva,ALTOS DE SAN LORENZO
+AR-B01,,El Remanso,ARANA
+AR-B02,,La Armonia,ARANA
+AR-B03,,La Hermosura,ARANA
+AR-B04,,Las Luciernagas,ARANA
+AR-B05,,San Carlos II,ARANA
+AR-B06,,San Carlos I / Padre Cajade,ARANA
+AR-B07,,San Antonio,ARANA
+AR-B08,,La Aceitera,ARANA
+AR-B09,,La Curva,ARANA
+AR-B10,,Los Teros,ARANA
+AR-B11,,El Mangrullo,ARANA
+AR-B12,,Eucaliptos,ARANA
+AR-B13,,Girasoles,ARANA
+AR-B14,,9 de marzo,ARANA
+AR-B15,,Azul,ARANA
+AR-B16,,Titi,ARANA
+AR-B17,,Las Carquejas,ARANA
+AR-B18,,La Simona,ARANA
+AR-B19,,Regimiento Arana,ARANA
+AR-B20,,La Granja de Arana,ARANA
+AR-B21,,Camping SSP,ARANA
+MA-B01,,El Retiro,MALVINAS ARGENTINAS
+MA-B02,,El Retiro 1,MALVINAS ARGENTINAS
+LO-B01,,El Centinela,LISANDRO OLMOS
+LO-B02,,El Parque,LISANDRO OLMOS
+LO-B03,,Gigante del Oeste,LISANDRO OLMOS
+LO-B04,,Salita,LISANDRO OLMOS
+LO-B05,,Santa Rosa / Las Casuarinas,LISANDRO OLMOS
+LO-B06,,Penitenciario,LISANDRO OLMOS
+LO-B07,,San Benito,LISANDRO OLMOS
+LO-B08,,Nueva Esperanza,LISANDRO OLMOS
+LO-B09,,Casco 1,LISANDRO OLMOS
+LO-B10,,Casco 2,LISANDRO OLMOS
+LO-B11,,La Palangana,LISANDRO OLMOS
+LO-B12,,Los tres hermanos,LISANDRO OLMOS
+LO-B13,,La Escondida,LISANDRO OLMOS
+LO-B14,,Güemes,LISANDRO OLMOS
+LO-B15,,El Retiro 3,LISANDRO OLMOS
+LO-B16,,Don Rogelio 2,LISANDRO OLMOS
+LO-B17,,Don Rogelio 1,LISANDRO OLMOS
+LH-B01,,Las Palmeras,LOS HORNOS
+LH-B02,,La Piedad,LOS HORNOS
+LH-B04,,Santa Isabel,LOS HORNOS
+LH-B05,,Los Ciruelos,LOS HORNOS
+LH-B06,,Procrear 1,LOS HORNOS
+LH-B07,,Procrear 2,LOS HORNOS
+LH-B08,,Procrear 3,LOS HORNOS
+LH-B09,,Decano Funes,LOS HORNOS
+LH-B10,,El Triunfo,LOS HORNOS
+LH-B11,,Fincas de Duggan,LOS HORNOS
+LH-B12,,Los Hornos Centro,LOS HORNOS
+LH-B13,,San Benjamin,LOS HORNOS
+LH-B14,,Talleres,LOS HORNOS
+LH-B15,,Seminario,LOS HORNOS
+LH-B16,,Villa Ferrocarril,LOS HORNOS
+LH-B17,,Obrero,LOS HORNOS
+LH-B18,,Terminal 214,LOS HORNOS
+LH-B19,,19 de Noviembre,LOS HORNOS
+LH-B20,,La Laguna,LOS HORNOS
+LH-B21,,Capital Chica,LOS HORNOS
+LH-B22,,Plaza Libertad,LOS HORNOS
+LH-B23,,Litoral chico,LOS HORNOS
+LH-B24,,Cementerio,LOS HORNOS
+LH-B25,,Nuestra señora de la Salud,LOS HORNOS
+LH-B26,,La Mecánica,LOS HORNOS
+LH-B27,,Ripoll,LOS HORNOS
+LH-B28,,Centro de Salud 45,LOS HORNOS
+LH-B29,,El Retiro II,LOS HORNOS
+LH-B30,,La Unión,LOS HORNOS
+LH-B31,,La 63 bis,LOS HORNOS
+LH-B32,,El Retiro III,LOS HORNOS
+LH-B33,,San Juan de la Cruz,LOS HORNOS
+LH-B34,,El Retiro IV,LOS HORNOS
+LH-B35,,La SN XIIbis,LOS HORNOS
+LH-B36,,La SN XII,LOS HORNOS
+LH-B37,,UMUPLA,LOS HORNOS
+LH-B38,,Siglo XXI,LOS HORNOS
+LH-B39,,El Hornero,LOS HORNOS
+LH-B40,,Dos de Abrill,LOS HORNOS
+LH-B41,,SubEst. Sur EDELAP,LOS HORNOS
+LH-B42,,San Antonio,LOS HORNOS
+LH-B43,,Hill Valley,LOS HORNOS
+LH-B44,,El Remanso,LOS HORNOS
+LH-B45,,Ferroviarios Los Hornos,LOS HORNOS
+LH-B46,,Planeadores,LOS HORNOS
+LH-B47,,SPB - Unidad Nº 9,LOS HORNOS
+LH-B48,,COCO,LOS HORNOS
+LH-B49,,FCAyF - UNLP,LOS HORNOS
+LH-B50,,La Rumel,LOS HORNOS
+LH-B51,,La Cantera,LOS HORNOS
+LH-B52,,La Cantera II,LOS HORNOS
+LH-B53,,La Entrerriana,LOS HORNOS
+LH-B54,,La Cantera III,LOS HORNOS
+LH-B55,,La Fábrica,LOS HORNOS
+LH-B56,,El Triángulo,LOS HORNOS
+LH-B57,,La Escondida,LOS HORNOS
+LH-B58,,Camping ATSA,LOS HORNOS
+LH-B59,,Colonos La Armonía,LOS HORNOS
+LH-B60,,Quintas Los Hornos,LOS HORNOS
+LH-B61,,Quintas de Poblet,LOS HORNOS
+LH-B62,,Haras de ACLHO,LOS HORNOS
+LH-B63,,Finca Los Cerezos,LOS HORNOS
+LH-B64,,Camping UPCN,LOS HORNOS
+LH-B65,,Padres Vocacionistas,LOS HORNOS
+LH-B66,,Comunidad Rural Los Hornos,LOS HORNOS
+LH-B67,,Rincón del Gaucho,LOS HORNOS
+LH-B68,,Abuela Eli,LOS HORNOS
+LH-B69,,La Blanqueada,LOS HORNOS
+LH-B70,,Fincas de Duggan II,LOS HORNOS
+LH-B71,,Las Vías,LOS HORNOS
+LH-B03,,Est. Poblet,LOS HORNOS
+LH-B72,,Camping Los Hornos,LOS HORNOS
+SG-B01,,Parque Sicardi,PARQUE SICARDI - GARIBALDI
+SG-B02,,Villa Garibaldi,PARQUE SICARDI - GARIBALDI
+SG-B03,,Ignacio Correa,PARQUE SICARDI - GARIBALDI
+SG-B04,,Sol de Octubre,PARQUE SICARDI - GARIBALDI
+SG-B05,,PROCREAR,PARQUE SICARDI - GARIBALDI
+VR-B01,19 de Febrero,19 de Febrero,VILLA ELVIRA
+VR-B02,El Palihue,El Palihue,VILLA ELVIRA
+VR-B03,Casco Villa Elvira,Casco Villa Elvira,VILLA ELVIRA
+VR-B04,,Villa Alba,VILLA ELVIRA
+VR-B05,Villa Montoro,Villa Montoro,VILLA ELVIRA
+VR-B06,,El Pino,VILLA ELVIRA
+VR-B07,,Molino,VILLA ELVIRA
+VR-B08,,Frison,VILLA ELVIRA
+VR-B09,,Barrio Aeropuerto,VILLA ELVIRA
+VR-B10,,Barrio Monasterio,VILLA ELVIRA
+VR-B11,Barrio Jardín,Barrio Jardin,VILLA ELVIRA
+VR-B12,,Barrio La 90,VILLA ELVIRA
+VR-B13,Villa Ponzati,Villa Ponzati,VILLA ELVIRA
+VR-B14,,88 viviendas,VILLA ELVIRA
+VR-B15,,El Campito,VILLA ELVIRA
+VR-B16,,El Triángulo,VILLA ELVIRA
+VR-B17,,Las Tejas,VILLA ELVIRA
+VR-B18,,ATE,VILLA ELVIRA
+VR-B19,,8 de Marzo,VILLA ELVIRA
+VR-B20,,Depósito ARBA,VILLA ELVIRA
+VR-B21,Villa Alba,Villa Alba,VILLA ELVIRA
+VR-B22,,Ministerio de Infraestructura,VILLA ELVIRA
+VR-B23,,Pedagógico Barrio Jardín,VILLA ELVIRA
+VR-B24,,Nuestra Señora de Caacupé,VILLA ELVIRA
+VR-B25,,Alegre,VILLA ELVIRA
+VR-B26,,Cerro Platense,VILLA ELVIRA
+VR-B27,Grupo Scout Caleuche,Grupo Scout Caleuche,VILLA ELVIRA
+VR-B28,,Sebastián,VILLA ELVIRA
+VR-B29,,Camping Camioneros,VILLA ELVIRA
+VR-B30,,Ferretería de La Ladrona,VILLA ELVIRA
+VR-B31,,Destacamento Villa Elvira // Torres B,VILLA ELVIRA
+VR-B32,,Club Aeromodelista La Plata,VILLA ELVIRA
+AB-B01,,Plaza Abasto,ABASTO
+AB-B02,,Plaza Itatí,ABASTO
+AB-B03,,Abasto Nuevo,ABASTO
+AB-B04,,Estancia chica,ABASTO
+AB-B05,,Villa San Martin,ABASTO
+AB-B06,,Villa La Esperanza,ABASTO
+AB-B07,,La Rueda,ABASTO
+AB-B08,,La Ruta,ABASTO
+AB-B09,,Finca El Rosedal,ABASTO
+AB-B10,,Esc. Nuestramérica,ABASTO
+AB-B11,,Abasto nuevo II,ABASTO
+AB-B12,,Tierra del Alba,ABASTO
+AB-B13,,Villa Nueva Esperanza,ABASTO
+AB-B14,,Parque Industrial la Plata,ABASTO
+AB-B15,,Villa San Martín II,ABASTO
+AB-B16,,515 y Ruta2,ABASTO
+AB-B17,,San Isidro,ABASTO
+AB-B18,,Las Alamedas,ABASTO
+AB-B19,,Los Cardales,ABASTO
+AB-B20,,Parador El Taller,ABASTO
+AB-B21,,San José,ABASTO
+AB-B22,,Cava Pampa,ABASTO
+AB-B23,,Solar de Las Moras,ABASTO
+AB-B24,,Aluar div. elaborados,ABASTO
+AB-B25,,Abasto Nuevo,ABASTO
+AB-B26,,Abasto producción,ABASTO
+AB-B27,,Área productiva La Plata,ABASTO
+AE-B19,,Plantar,ÁNGEL ETCHEVERRY
+AE-B20,,Come Mono,ÁNGEL ETCHEVERRY
+AE-B01,,Casco Angel Etcheverry,ÁNGEL ETCHEVERRY
+AE-B02,,Noviello,ÁNGEL ETCHEVERRY
+AE-B03,,El Toboso,ÁNGEL ETCHEVERRY
+AE-B04,,San Antonio,ÁNGEL ETCHEVERRY
+AE-B05,,La Esperanza,ÁNGEL ETCHEVERRY
+AE-B06,,Ferroviario,ÁNGEL ETCHEVERRY
+AE-B07,,Barrio Colectora,ÁNGEL ETCHEVERRY
+AE-B08,,Procrear,ÁNGEL ETCHEVERRY
+AE-B09,,El Rodeo,ÁNGEL ETCHEVERRY
+AE-B10,,Las Moras,ÁNGEL ETCHEVERRY
+AE-B11,,Maderhaus,ÁNGEL ETCHEVERRY
+AE-B12,,La Curva Ruta 2,ÁNGEL ETCHEVERRY
+AE-B13,,El Negrito,ÁNGEL ETCHEVERRY
+AE-B14,,Los Cachorros,ÁNGEL ETCHEVERRY
+AE-B15,,Area 60 - La Victoria,ÁNGEL ETCHEVERRY
+AE-B16,,Miralagos,ÁNGEL ETCHEVERRY
+AE-B17,,Haras del Sur I,ÁNGEL ETCHEVERRY
+AE-B18,,Campos de la Enriqueta,ÁNGEL ETCHEVERRY
+AE-B21,,Ferretería JM,ÁNGEL ETCHEVERRY
+AE-B22,,La Unión,ÁNGEL ETCHEVERRY
+AE-B23,,Saint John,ÁNGEL ETCHEVERRY
+AE-B24,,Hamilton,ÁNGEL ETCHEVERRY
+AE-B25,,Antigua,ÁNGEL ETCHEVERRY
+AE-B26,,La Victoria II,ÁNGEL ETCHEVERRY
+AE-B27,,Haras del Sur III,ÁNGEL ETCHEVERRY
+EP-B01,,Martin Fierro,EL PELIGRO
+EP-B02,,El Peligro,EL PELIGRO
+EP-B03,,Ruta del Sol,EL PELIGRO
+EP-B04,,La Cándida,EL PELIGRO
+EP-B05,,Ruta del Sol II,EL PELIGRO
+EP-B06,,Rincón de Encuentro,EL PELIGRO
+EP-B07,,La Arbolada,EL PELIGRO
+EP-B08,,El Triángulo,EL PELIGRO
+EP-B09,,San Francisco,EL PELIGRO
+EP-B10,,Los Colectiveros,EL PELIGRO
+EP-B11,,La Familia,EL PELIGRO
+EP-B12,,Chacra Los Pinos,EL PELIGRO
+EP-B13,,Solar del Aguador,EL PELIGRO
+EP-B14,,La Trinidad,EL PELIGRO
+EP-B15,,Los Viveros,EL PELIGRO
+EP-B16,,Expreso Las Sierras,EL PELIGRO
+EP-B17,,Quinta Huracán,EL PELIGRO
+EP-B18,,La Patria Grande,EL PELIGRO
+EP-B19,,KM 40 Eco,EL PELIGRO
+EP-B20,,Los Viveros II,EL PELIGRO
+EP-B21,,La Bendición,EL PELIGRO
+EP-B22,,La Escondida,EL PELIGRO
+EP-B23,,La Familia II,EL PELIGRO
+AS-B27,,Sector CEDICA – Arroyo San Juan,ARTURO SEGUÍ
+EP-B24,,Sector Escuela 49 – José Hernández,EL PELIGRO
+RN-B06,,Sector 19 y 514,RINGUELET
+RN-B07,,Sector Museo del Ladrillo – Ctibor,RINGUELET
+RN-B08,,Sector Carrefour – Sodimac Ringuelet,RINGUELET
+LH-B73,,Sector Rotonda 66 – Ruta 36,LOS HORNOS
+AR-B22,,Quintas de 630 y 635,ARANA
+LH-B74,,Sector 163 y 72,LOS HORNOS
+AB-B28,,Acceso Etcheverry – sector 531,ABASTO
+AE-B28,,Quintas del Ferroviario – 238,ÁNGEL ETCHEVERRY
+LO-B18,,Sector Cooperativa Agrícola La Unión,LISANDRO OLMOS
+AE-B29,,Sector 284 y Ruta 215,ÁNGEL ETCHEVERRY
+AE-B30,,Prados de la Vega,ÁNGEL ETCHEVERRY
+AE-B31,,Quintas de 278 y Ruta 215,ÁNGEL ETCHEVERRY
+AE-B32,,Santa Silvia – sector sur,ÁNGEL ETCHEVERRY
+AE-B33,,Santa Silvia,ÁNGEL ETCHEVERRY
+AE-B34,,Quintas de 274 a 278,ÁNGEL ETCHEVERRY
+AE-B35,,Chacras del Ramal Belgrano – 47,ÁNGEL ETCHEVERRY
+AE-B36,,Sector Cruce de Rutas 6 y 215,ÁNGEL ETCHEVERRY
+AB-B29,,Entorno Quinta La Laguna,ABASTO
+AB-B30,,Quintas de 208 y 492,ABASTO
+AR-B23,,Sector Grand Sur – Ruta 11,ARANA
+AR-B24,,La Hermosura – entorno Escuela 20,ARANA
+AB-B31,,Sector Renovar – calle 460,ABASTO
+AB-B32,,Quintas de 216 y 483,ABASTO
+AB-B33,,Campos de Labasela – 223,ABASTO
+AB-B34,,Sector Campo Raíces,ABASTO
+AL-B35,,Corredor ferroviario de Puente de Fierro,ALTOS DE SAN LORENZO
+AL-B36,,Corredor ferroviario Rufino de Elizalde,ALTOS DE SAN LORENZO
+AB-B35,,Quintas de 197 y 38,ABASTO
+AB-B36,,Quintas de 203 y 32,ABASTO
+AB-B37,,Quintas de la 38,ABASTO
+AB-B38,,Invernáculos de 208 y 32,ABASTO
+EP-B25,,Quintas de 420 y 425,EL PELIGRO
+EP-B26,,Sector Altos de Isabella – Ruta 53,EL PELIGRO
+VE-B36,,Sector Pereyra – calle 118,VILLA ELISA
+MR-B37,,Sector 179 y 526,MELCHOR ROMERO
+MR-B38,,Quintas de 183 y 526,MELCHOR ROMERO
+MR-B39,,Quintas de 185 y 529,MELCHOR ROMERO
+MR-B40,,Campos de 183 y 32,MELCHOR ROMERO
+LH-B75,,Sector El Sembradío,LOS HORNOS
+AB-B39,,Quintas del Carnaval – Ruta 36,ABASTO
+AB-B40,,Sector Mizujo,ABASTO
+AB-B41,,Entorno de la Escuela Agraria Nº 1,ABASTO
+AB-B42,,Sector Capilla Los Pastorcitos de Fátima,ABASTO
+AB-B43,,Quintas de 498 y 202,ABASTO
+AB-B44,,Quintas de 506 y 202,ABASTO
+AB-B45,,Quintas de 511 y Ruta 36,ABASTO
+AB-B46,,Sector 515 y Ruta 36,ABASTO
+AB-B47,,Quintas del Ferrocarril – 206,ABASTO
+AB-B48,,Sector Vivero Harumi,ABASTO
+AB-B49,,Quintas del Rodríguez – 197,ABASTO
+AB-B50,,Predios de la 197,ABASTO
+AB-B51,,Sector Escuela 70 – 19 de Noviembre,ABASTO
+AB-B52,,Quintas de 32 y Ruta 36,ABASTO
+AB-B53,,Sector Sublime Gracia,ABASTO
+AB-B54,,Sector Frigolar – 520,ABASTO
+AB-B55,,Sector Emapi – 520,ABASTO
+AB-B56,,Sector El Manzano – 502,ABASTO
+AB-B57,,Sector Quinta La Primavera,ABASTO
+AB-B58,,Quintas de 215 y Labasela,ABASTO
+AB-B59,,Campos del Carnaval – 460,ABASTO
+AB-B60,,Parque Industrial La Plata II,ABASTO
+AB-B61,,Sector Centro Nacional de Entrenamiento de Bomberos,ABASTO
+AB-B62,,Quintas de la 461,ABASTO
+AB-B63,,Quintas de 206 y 526,ABASTO
+AB-B64,,Quintas de 200 y 526,ABASTO
+AB-B65,,Quintas de 197 y 526,ABASTO
+AB-B66,,Quintas de 203 y 526,ABASTO
+AB-B67,,Quintas de 208 y 526,ABASTO
+AB-B68,,Sector El Pinar – 32,ABASTO
+AB-B69,,Sector Molino Blanco,ABASTO
+AB-B70,,Quintas de 227 y 32,ABASTO
+AB-B71,,Quintas de 235 y 38,ABASTO
+AB-B72,,Campos del Cruce Ferroviario – 515,ABASTO
+AB-B73,,Quintas de la Autovía 2 – ramal G3,ABASTO
+AB-B74,,Campos de 531 y Autovía 2,ABASTO
+AB-B75,,Quintas de la 531,ABASTO
+AB-B76,,Sector 265 y Ruta 215,ABASTO
+AB-B77,,Sector Club Deportivo Internacional La Plata,ABASTO
+AB-B78,,Sector Escuela Media 38 – Ruta 215,ABASTO
+AB-B79,,Sector Haras Los Retoños – Ruta 6,ABASTO
+AB-B80,,Campos de 531 – sector oeste,ABASTO
+AB-B81,,Sector Fortín Corraleros de Abasto,ABASTO
+AB-B82,,Campos de la ex Ruta 6,ABASTO
+LH-B76,,Sector 155 y 55,LOS HORNOS
+LH-B77,,Sector Predio Coronel Brandsen,LOS HORNOS
+LH-B78,,Sector Las Casuarinas – 137,LOS HORNOS
+LH-B79,,Quintas de 185 y 66,LOS HORNOS
+LH-B80,,Canteras de 177 y 72,LOS HORNOS
+LH-B81,,UPCN – sector golf y deportes,LOS HORNOS
+LH-B82,,Sector Finca Hernández – 155,LOS HORNOS
+LH-B83,,Corredor hortícola de la 90,LOS HORNOS
+LH-B84,,Quintas del Sauce – Ruta 36,LOS HORNOS
+LH-B85,,Quintas del Sauce – 612,LOS HORNOS
+LH-B86,,Entorno Cementerio Parque – este,LOS HORNOS
+LH-B87,,Quintas del Pescado – Ruta 36,LOS HORNOS
+LH-B88,,Quintas de 612 – Poblet,LOS HORNOS
+LH-B89,,Entorno Estación Poblet – Ruta 36,LOS HORNOS
+LH-B90,,Quintas de Poblet – 664,LOS HORNOS
+LH-B91,,Campos de 664 – Poblet,LOS HORNOS
+LH-B92,,Sector Quinta Gareca,LOS HORNOS
+LH-B93,,Quintas de Poblet – Ruta 36 este,LOS HORNOS
+LH-B94,,Campos de 684 – Poblet,LOS HORNOS
+LH-B95,,Quintas de la 708,LOS HORNOS
+LH-B96,,Campos de Poblet – este,LOS HORNOS
+LH-B97,,Quintas del Sauce – 167,LOS HORNOS
+LH-B98,,Quintas del Pescado – 627,LOS HORNOS
+LH-B99,,Sector Escuela Secundaria 51 – 90,LOS HORNOS
+AE-B37,,Aeródromo Poblet y quintas,ÁNGEL ETCHEVERRY
+AE-B38,,Quintas de Poblet – Ruta 36 sur,ÁNGEL ETCHEVERRY
+AE-B39,,Corredor hortícola de 664 y 224,ÁNGEL ETCHEVERRY
+AE-B40,,Sector Aeródromo Gómez,ÁNGEL ETCHEVERRY
+AE-B41,,Chacras de Hermanos Paz,ÁNGEL ETCHEVERRY
+AE-B42,,Colectora de La Victoria,ÁNGEL ETCHEVERRY
+AE-B43,,Sector Parador La Cantera,ÁNGEL ETCHEVERRY
+AE-B44,,Quintas de 229 y 40,ÁNGEL ETCHEVERRY
+AE-B45,,Quintas de 235 y 52,ÁNGEL ETCHEVERRY
+AE-B46,,Chacras de 238 y 62,ÁNGEL ETCHEVERRY
+AE-B47,,Quintas de 234 y 62,ÁNGEL ETCHEVERRY
+AE-B48,,Corredor de Esquina Negra – 213,ÁNGEL ETCHEVERRY
+AE-B49,,Esquina Negra,ÁNGEL ETCHEVERRY
+MR-B41,,Sector 149 y 32,MELCHOR ROMERO
+MR-B42,,Quintas del Gato – 173,MELCHOR ROMERO
+MR-B43,,Sector Rotonda 520 – Ruta 36,MELCHOR ROMERO
+MR-B44,,Quintas de 185 y 32,MELCHOR ROMERO
+MR-B45,,Quintas de 185 y 38,MELCHOR ROMERO
+EP-B27,,Campos de Ruta 6 – Buchanan,EL PELIGRO
+EP-B28,,Sector El Discípulo – Ruta 6,EL PELIGRO
+EP-B29,,Chacras de Ruta 53 – oeste,EL PELIGRO
+EP-B30,,Sector Escuela Secundaria 60 – Ruta 53,EL PELIGRO
+EP-B31,,Sector Cantera Buchanan,EL PELIGRO
+EP-B32,,Campos de 270 y 436,EL PELIGRO
+EP-B33,,Canteras del Autódromo,EL PELIGRO
+EP-B34,,Autódromo Roberto Mouras,EL PELIGRO
+EP-B35,,Quintas de 427 y 241,EL PELIGRO
+EP-B36,,Invernáculos del San Juan – Ruta 36,EL PELIGRO
+EP-B37,,Sector El Galpón Criollo,EL PELIGRO
+EP-B38,,Quintas de 432 y Ruta 36,EL PELIGRO
+EP-B39,,Quintas de la 420 – El Peligro,EL PELIGRO
+EP-B40,,Quintas de 205 y 436,EL PELIGRO
+EP-B41,,Campos de 436 y Autovía 2,EL PELIGRO
+EP-B42,,Sector Estación Transformadora Abasto,EL PELIGRO
+EP-B43,,Quintas del Autódromo – norte,EL PELIGRO
+EP-B44,,Sector Casa de Retiro San José,EL PELIGRO
+EP-B45,,Corredor hortícola de 409 y 537,EL PELIGRO
+LO-B19,,Sector Mafissa – avenida 44,LISANDRO OLMOS
+LO-B20,,Quintas de 197 y 84,LISANDRO OLMOS
+LO-B21,,Quintas de 197 y 90,LISANDRO OLMOS
+LO-B22,,Chacras de 224 y 90,LISANDRO OLMOS
+LO-B23,,La Plata Parque Cementerio,LISANDRO OLMOS
+LO-B24,,Sector Lácteos de Poblet,LISANDRO OLMOS
+LO-B25,,Campos del Bosque de Poblet,LISANDRO OLMOS
+LO-B26,,Sector La Bienvenida – Poblet Polo,LISANDRO OLMOS
+LO-B27,,Campos de Poblet – Ruta 36 oeste,LISANDRO OLMOS
+LO-B28,,Quintas de 664 y 224,LISANDRO OLMOS
+CB-B33,,Club Hípico y de Golf City Bell,CITY BELL
+CB-B34,,Monte de Transradio – sector sur,CITY BELL
+CB-B35,,Monte de Transradio – sector norte,CITY BELL
+CB-B36,,Guarnición de Ejército City Bell,CITY BELL
+CB-B37,,Monte del Carnaval – Las Banderitas,CITY BELL
+CB-B38,,Quintas de 446 y 141,CITY BELL
+CB-B39,,Sector Quinta La Nana,CITY BELL
+CB-B40,,Acceso a Los Ceibos – 135,CITY BELL
+CB-B41,,Quintas de 446 y 137,CITY BELL
+CB-B42,,Quintas de 135 y 453,CITY BELL
+AS-B28,,Corredor ecuestre del San Juan,ARTURO SEGUÍ
+AS-B29,,Sector Mercados de Flores,ARTURO SEGUÍ
+AS-B30,,Quintas del Carnaval – 425,ARTURO SEGUÍ
+AS-B31,,Sector Casa de Campo del CALP,ARTURO SEGUÍ
+AS-B32,,Sector recreativo del Centro Basko,ARTURO SEGUÍ
+AR-B25,,Cantera de 17 y 637,ARANA
+AR-B26,,Quintas de la 7 – acceso a Sicardi,ARANA
+VE-B37,,Parque Ecológico Municipal – La Casona,VILLA ELISA
+AL-B37,,Predio del Cementerio Municipal,ALTOS DE SAN LORENZO
+AL-B38,,Campos de 137 y 83,ALTOS DE SAN LORENZO
+AL-B39,,Sector deportivo de 137 y 98,ALTOS DE SAN LORENZO
+AL-B40,,Campos de 137 y 90,ALTOS DE SAN LORENZO
+AL-B41,,Quintas de 137 y 620,ALTOS DE SAN LORENZO
+AL-B42,,Entorno Capilla San José – Arana,ALTOS DE SAN LORENZO
+AL-B43,,Quintas de 630 y 30,ALTOS DE SAN LORENZO
+AL-B44,,La Cantera de la 603,ALTOS DE SAN LORENZO
+AL-B45,,Quintas de 30 y 615,ALTOS DE SAN LORENZO
+AL-B46,,Claro del Ferrocarril de Arana,ALTOS DE SAN LORENZO
+SG-B06,,Sector Capilla San Pedro – 650,PARQUE SICARDI - GARIBALDI
+SG-B07,,Corredor del Pescado – Ignacio Correas,PARQUE SICARDI - GARIBALDI
+SG-B08,,Sector Vías Verdes – 659,PARQUE SICARDI - GARIBALDI
+SG-B09,,Campos del Pescado – calle 30,PARQUE SICARDI - GARIBALDI
+SG-B10,,Chacras de Correas – 704,PARQUE SICARDI - GARIBALDI
+VR-B33,,Sector 84 y 116,VILLA ELVIRA
+VR-B34,,Monte de 88 y 1,VILLA ELVIRA
+VR-B35,,Aeropuerto de La Plata,VILLA ELVIRA
+VR-B36,,Canteras de Villa Elvira,VILLA ELVIRA
+VR-B37,,Sector Terminal del Este – Ruta 11,VILLA ELVIRA
+VR-B38,,Campos de 615 y 122,VILLA ELVIRA
+GR-B19,,Cittabella – Cantera de Gorina,GORINA
+GR-B20,,Sector 135 y 480,GORINA
+GR-B21,,Sector Camping Eva Perón – ADEF,GORINA
+RN-B09,,Sector 19 y 516,RINGUELET
+JH-B29,,Sector 138 y 501,JOSÉ HERNÁNDEZ
+JH-B30,,Estación Experimental Gorina,JOSÉ HERNÁNDEZ
+JH-B31,,Entorno Albatros – 515,JOSÉ HERNÁNDEZ
+JH-B32,,Sector Cantera de Gonnet,JOSÉ HERNÁNDEZ
+JH-B33,,Terminal de Transportes Nueve de Julio,JOSÉ HERNÁNDEZ
+JH-B34,,Sector 31 y 520,JOSÉ HERNÁNDEZ
+JH-B35,,Campos de 31 y 515,JOSÉ HERNÁNDEZ
+GN-B03,,Predios deportivos de Gonnet,MANUEL B. GONNET
+GN-B04,,República de los Niños,MANUEL B. GONNET
+GN-B05,,Sector Gonnet Camp,MANUEL B. GONNET
+GN-B06,,Gonnet entre arroyos,MANUEL B. GONNET
+TL-B18,,Ribera del Gato – 25 y 524,TOLOSA
+ER-B07,,Campos del Ferrocarril – 426,EL RINCÓN
+ER-B08,,Ribera del Carnaval – 443,EL RINCÓN
