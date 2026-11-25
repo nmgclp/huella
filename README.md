@@ -20,13 +20,21 @@ python3 -m http.server 8000
 
 Abrí http://localhost:8000 en el navegador. (No sirve abrir `index.html` con doble clic, porque el navegador bloquea la lectura de los datos.)
 
-## Publicarlo
+## Publicarlo en GitHub Pages
 
-`site/` es un sitio estático: no necesita servidor ni base de datos. Cualquiera de estos servicios lo aloja gratis para este volumen de uso (revisá sus condiciones vigentes):
+El sitio es estático: no necesita servidor ni base de datos. El proyecto incluye `.github/workflows/pages.yml`, que publica la carpeta `site/` cada vez que subís cambios.
 
-- **Cloudflare Pages**, **Netlify** o **GitHub Pages**.
-- En los dos primeros alcanza con subir el contenido de la carpeta `site/` (arrastrándola o conectando un repositorio).
-- Para usar tu propio dominio, comprá el dominio y seguí las instrucciones del servicio para apuntarlo.
+1. Creá una cuenta en github.com y un repositorio nuevo, **público** (en el plan gratuito, GitHub Pages lo requiere). Por ejemplo, `huella-cultural`.
+2. Subí todo el contenido de esta carpeta al repositorio (en la web: **Add file → Upload files**, arrastrando las carpetas). Si la carpeta oculta `.github` no se sube, creá el archivo desde la web: **Add file → Create new file**, escribí `.github/workflows/pages.yml` como nombre y pegá el contenido de ese archivo.
+3. En el repositorio: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+4. Entrá a la pestaña **Actions** y esperá a que termine "Publicar sitio" (un par de minutos). Si no arrancó solo, abrilo y apretá **Run workflow**.
+5. El sitio queda en `https://TU-USUARIO.github.io/NOMBRE-DEL-REPOSITORIO/`.
+
+Para usar tu propio dominio: en **Settings → Pages → Custom domain** y en el panel del proveedor donde lo compraste, siguiendo las instrucciones de GitHub.
+
+Cada cambio posterior (datos nuevos, nombre, textos) se publica solo al subirlo.
+
+> Las carpetas `fuentes/` y el archivo `planilla.csv` están excluidos (`.gitignore`) para que los archivos municipales completos no se suban.
 
 ## Antes de difundirlo
 
